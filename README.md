@@ -2,7 +2,8 @@
 
 An Excel project that analyses six months of sales (Jan - Jun 2023) from three coffee-shop stores in New York City: **Astoria, Hell's Kitchen and Lower Manhattan**.
 
-![Dashboard](images/dashboard.png)
+<img width="1722" height="718" alt="image" src="https://github.com/user-attachments/assets/3591c89f-445f-4837-8801-ec4aa9ce3122" />
+
 
 ## Business questions
 
